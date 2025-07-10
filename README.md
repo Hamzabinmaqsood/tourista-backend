@@ -61,7 +61,7 @@ Follow these steps to set up and run the project locally.
 ### Step-by-Step Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [Your-GitHub-Repository-URL]
+    git clone [[Your-GitHub-Repository-URL]](https://github.com/Hamzabinmaqsood/tourista-backend/tree/main)
     cd tourista_fyp
     ```
 
